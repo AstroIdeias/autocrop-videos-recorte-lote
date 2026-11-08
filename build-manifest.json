@@ -1,0 +1,23 @@
+{
+  "version": "0.6.0-recorte-lote-20261108",
+  "built_utc": "2026-11-08T18:30:53.955402+00:00",
+  "original_exe_sha256": "a5482bd2473147b3c0660a9eb71e1d898c4e6b9cbb2a0a6c09d5c039bd289095",
+  "exe_sha256": "7aa80bcf44966e193d9199e44f43a8f633975d5c9c26db5d4c0272b01d9898bb",
+  "updates_sha256": "5af59789ff62eae1e778cc455eb220b1927344530037329757ef1b03aa0fe451",
+  "preserved_archive_entries": [
+    "struct",
+    "pyimod01_archive",
+    "pyimod02_importers",
+    "pyimod03_ctypes",
+    "pyimod04_pywin32",
+    "pyiboot01_bootstrap",
+    "pyi_rth_inspect",
+    "pyi_rth_pyside6",
+    "pyi_rth_pkgutil",
+    "pyi_rth_multiprocessing",
+    "PYZ.pyz"
+  ],
+  "original_pyz_unchanged": true,
+  "original_source_available": false,
+  "changes_source": "manutencao/updates.py"
+}

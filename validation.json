@@ -1,0 +1,24 @@
+{
+  "ok": true,
+  "checked_videos": 2,
+  "unchanged_unchecked_video": true,
+  "actual_batch_export": true,
+  "repeated_export_preserved": true,
+  "dialogs": [
+    "Escolher pasta de downloads",
+    "Escolher pasta de saída para baixar vídeo"
+  ],
+  "persisted": true,
+  "cropped_resolution": [
+    200,
+    180
+  ],
+  "runtime": "bundled Python/Qt/OpenCV/FFmpeg",
+  "unit_tests": 10,
+  "unit_tests_passed": 10,
+  "template_and_aac_audio_export_tested": true,
+  "source_folder_unchanged": true,
+  "runtime_files_verified": 306,
+  "original_modules_preserved": true,
+  "visual_validation": "offscreen rendered windows, manually inspected"
+}

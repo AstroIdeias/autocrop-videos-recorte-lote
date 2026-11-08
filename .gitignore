@@ -1,0 +1,6 @@
+# Pacotes de distribuição: armazenados nas Releases.
+*.zip
+
+# Executáveis e runtime distribuídos no pacote da Release.
+*.exe
+_internal/
